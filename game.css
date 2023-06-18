@@ -1,0 +1,11 @@
+.Game{
+display: inline-block;
+margin: 0 auto;
+text-align: center;
+}
+
+.Game li{
+text-decoration: none;
+list-style: none;
+
+}
