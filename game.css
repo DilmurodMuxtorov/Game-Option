@@ -1,11 +1,19 @@
 .Game{
 display: inline-block;
-margin: 0 auto;
-text-align: center;
+align-items: center;
+justify-content: center;
+gap: 200px;
 }
 
 .Game li{
 text-decoration: none;
 list-style: none;
-
 }
+.one{
+margin-top: 100px;
+}
+.two{
+margin-top: 300px;
+}
+.three{
+margin-top: 300px;
